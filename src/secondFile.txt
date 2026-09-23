@@ -1,1 +1,3 @@
 This is first file/
+
+Some change was made in second file.
